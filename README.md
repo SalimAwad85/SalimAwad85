@@ -40,7 +40,7 @@
 - Learning new languages 🌐
 
 ### 📫 How to Reach Me:
-- 📧 Email: [salim@example.com](mailto:salim@example.com)
+- 📧 Email:[Gmail](Salimawad@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/salim-awad)
 - 🌐 [Personal Website](https://www.salimawad.com)
 
