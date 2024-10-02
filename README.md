@@ -3,11 +3,6 @@
 - 👀 I’m interested in learning new technologies and solving challenging problems, especially in the fields of AI, Machine Learning, and Web Development.
 - 🌱 I’m currently learning advanced Python, deep learning models, and React.js.
 - 💬 I’m looking to collaborate on open-source AI projects, web applications, or any exciting coding challenges.
-- 📫 How to reach me: You can contact me via
-  -  [email@example.com](SalimAwad925@gmail.com)
-  -  or connect with me on [LinkedIn](www.linkedin.com/in/salim-awad-1007a8319)
-  -  or connect with me on [Kaggle](https://www.kaggle.com/salimawad)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to explore new cultures, and I amavid traveler!
 
 
@@ -20,10 +15,9 @@
 ### 💼 Skills and Technologies:
 - 💻 *Programming Languages*: 
   - Python 🐍
-  - JavaScript 🟨
   - SQL 🗃️
-
-- 🛠️ *Technologies & Tools*:
+ 
+  - 🛠️ *Technologies & Tools*:
   - Django / Flask 🌱
   - Pandas / Numpy 🐼📊
   - Git & GitHub 🔧🐙
