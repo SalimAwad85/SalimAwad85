@@ -25,11 +25,6 @@
 - Chess ♟️
 - Artificial Intelligence 🤖
 - Learning new languages 🌐
-
-### 📫 How to Reach Me:
-- 📧 Email:[Gmail](salimawad925@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/salim-awad)
-
 ### 🌟 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SalimAwad85&show_icons=true&theme=radical)
 
