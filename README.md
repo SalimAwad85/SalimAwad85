@@ -5,13 +5,6 @@
 - 💬 I’m looking to collaborate on open-source AI projects, web applications, or any exciting coding challenges.
 - ⚡ Fun fact: I love to explore new cultures, and I amavid traveler!
 
-
-
-
-
-
-
-
 ### 💼 Skills and Technologies:
 - 💻 *Programming Languages*: 
   - Python 🐍
@@ -34,7 +27,7 @@
 - Learning new languages 🌐
 
 ### 📫 How to Reach Me:
-- 📧 Email:[Gmail](Salimawad@gmail.com)
+- 📧 Email:[Gmail](Salimawad925@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/salim-awad)
 - 🌐 [Personal Website](https://www.salimawad.com)
 
